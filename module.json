@@ -1,0 +1,11 @@
+{
+    "name": "SouthAPI",
+    "alias": "southapi",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\SouthAPI\\Providers\\SouthAPIServiceProvider"
+    ],
+    "files": []
+}

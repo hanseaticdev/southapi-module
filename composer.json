@@ -8,6 +8,10 @@
             "email": "api@hanseaticbank.de"
         }
     ],
+    "require": {
+        "php": "^8.1",
+        "hanseaticdev/hbsupport-module": "dev-master"
+    },
     "extra": {
         "laravel": {
             "providers": [],

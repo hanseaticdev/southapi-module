@@ -10,7 +10,10 @@
     ],
     "require": {
         "php": "^8.1",
-        "hanseaticdev/hbsupport-module": "dev-master"
+        "hanseaticdev/hbsupport-module": "dev-master",
+        "guzzlehttp/guzzle": "^7.2",
+        "laravel/framework": "^10.0",
+        "nwidart/laravel-modules": "^10.0"
     },
     "extra": {
         "laravel": {
